@@ -32,7 +32,7 @@ To run this project locally, you need a web browser (e.g., Chrome, Firefox, Safa
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/password-strength-checker.git
+    git clone https://github.com/BLACKYDOMAIN/Techno-Trench/password-strength-checker.git
     ```
 2. Navigate to the project directory:
     ```bash
